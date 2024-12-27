@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApplication1/.vs/WebApplication1/v17
+/WebApplication1/.vs/WebApplication1/CopilotIndices/17.12.38.29086
+/WebApplication1/WebApplication1/bin/Debug/net8.0
+/WebApplication1/WebApplication1/obj
+/WebApplication1/.vs/WebApplication1
